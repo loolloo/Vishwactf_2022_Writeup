@@ -1,8 +1,0 @@
-Instant flags:
-
-Flag Format: vishwactf{this_is_the_flag}
-Discord: in #rules vishwaCTF{welcometovishwaCTF}
-Trivia 2: google it vishwaCTF{Frederick_Cohen}
-Trivia 1: google it vishwaCTF{Kali_Linux}
-Trivia 3: google it vishwaCTF{Boza}
-Threat Royale: fill the form vishwactf{thankyouforregistering}
