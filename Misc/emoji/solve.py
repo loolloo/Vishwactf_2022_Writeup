@@ -43,4 +43,6 @@ for p in perms:
 
 """
 F0RB1DD3N_FRU1T {'o': '1', 'h': '0', ' ': ' ', 'a': '6', 'z': '2', 'w': '4', 't': '3', 'x': '7', 'b': '5'}
+
+VishwaCTF{F0RB1DD3N_FRU1T}
 """
