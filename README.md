@@ -10,7 +10,7 @@ We did pass some time looking on the event's Discord after the event to see the 
 
 # Table of Writeups
 
-The writeups have been divided by challenges and each one has been produced both in markdown and pdf format?
+The writeups have been divided by challenges and each one has been produced both in markdown and pdf format.
 
 ## Instant:
 
